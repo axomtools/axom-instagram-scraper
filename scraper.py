@@ -23,7 +23,7 @@ print(r"""
    ░ ░▒  ░ ░  ░  ▒     ░▒ ░ ▒░  ▒   ▒▒ ░░▒ ░      ░ ░  ░  ░▒ ░ ▒░
    ░  ░  ░  ░          ░░   ░   ░   ▒   ░░          ░     ░░   ░ 
          ░  ░ ░         ░           ░  ░            ░  ░   ░     
-BY AXOM            ░                                                       
+            ░                                                       
 """)
 print("=" * 70)
 print("instagram scraper by axom".center(70))
