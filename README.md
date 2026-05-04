@@ -6,10 +6,10 @@ requirements :
 pip install requests
 
 usage :
-> rm -rf axom-instagram-scraper then run 
-> git clone https://github.com/axomtools/axom-instagram-scraper.git  after it,run :
-> cd axom-instagram-scraper   and finally run this :
-> python scraper.py
+```rm -rf axom-instagram-scraper```
+```git clone https://github.com/axomtools/axom-instagram-scraper.git```
+```cd axom-instagram-scraper``` 
+```python scraper.py```
 
 an input will appear,enter the username.
     
